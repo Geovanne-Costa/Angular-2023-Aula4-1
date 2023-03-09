@@ -15,8 +15,6 @@ import { FluxoComponent } from './fluxo/fluxo.component';
     <hr>
     <app-me></app-me>
     <hr>
-    <app-timer></app-timer>
-    <hr>
     <app-fluxo></app-fluxo>
   `,
 })
